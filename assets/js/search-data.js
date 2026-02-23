@@ -113,6 +113,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/tong-wei-32b4481b7", "_blank");
         },
       },{
+        id: 'social-wechat_username',
+        title: 'Wechat_username',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
+        },
+      },{
         id: 'social-whatsapp',
         title: 'whatsapp',
         section: 'Socials',
