@@ -61,12 +61,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-two-first-authored-papers-has-been-accepted-to-iccv-2023-generalized-differentiable-ransac-and-adaptive-reordering-sampler-with-neurally-guided-magsac-big-thanks-to-our-co-authors-amp-amp-supervisors-yash-patel-jiri-matas-daniel-barath-and-sasha-alexander-smile",
+          title: 'Two first-authored papers has been accepted to ICCV 2023! “Generalized differentiable RANSAC” and...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-paper-titled-global-aware-edge-prioritization-for-pose-graph-initialization-has-been-accepted-to-cvpr-2026-big-thanks-to-my-amazing-co-authors-amp-amp-supervisors-giorgos-tolias-jiri-matas-daniel-barath-smile",
+          section: "News",},{id: "news-i-am-working-as-an-academic-guest-researcher-at-cvg-eth-for-two-months-thanks-to-dr-daniel-barath-and-prof-marc-pollefeys",
+          title: 'I am working as an academic guest researcher at CVG, ETH for two...',
+          description: "",
+          section: "News",},{id: "news-our-paper-called-breaking-the-frame-visual-place-recognition-by-overlap-prediction-has-been-accepted-to-wacv-2025-see-you-in-tucson-sparkler-cactus",
+          title: 'Our paper called “Breaking the frame: Visual place recognition by overlap prediction” has...',
+          description: "",
+          section: "News",},{id: "news-our-paper-titled-global-aware-edge-prioritization-for-pose-graph-initialization-has-been-accepted-to-cvpr-2026-big-thanks-to-my-amazing-co-authors-amp-amp-supervisors-giorgos-tolias-jiri-matas-daniel-barath-smile-tada-see-you-in-denver",
           title: 'Our paper titled “Global-Aware Edge Prioritization for Pose Graph Initialization” has been accepted...',
           description: "",
           section: "News",},{id: "projects-project-1",
