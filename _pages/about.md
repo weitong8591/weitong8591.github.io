@@ -8,7 +8,7 @@ profile:
   align: right
   image: my_pic.jpg
   image_circular: true # crops the image to make it circular
-  image_width: 30%
+  # image_width: 30%
   class: smaller-profile
   # more_info: >
   #   <p></p>
