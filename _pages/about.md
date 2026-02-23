@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD candidate at VRG, Czech Technical University in Prague. weitong@fel.cvut.cz
+subtitle: PhD candidate at <a href="https://vrg.fel.cvut.cz/">VRG</a>, Czech Technical University in Prague. weitong@fel.cvut.cz
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   # image_width: 220
   # more_info: >
   #   <p></p>
-  #   <p>Prague, Czech Republic</p>#<a href="https://vrg.fel.cvut.cz/">VRG</a>
+  #   <p>Prague, Czech Republic</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
