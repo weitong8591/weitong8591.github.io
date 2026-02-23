@@ -61,7 +61,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-two-first-authored-papers-has-been-accepted-to-iccv-2023-generalized-differentiable-ransac-and-adaptive-reordering-sampler-with-neurally-guided-magsac-big-thanks-to-our-co-authors-amp-amp-supervisors-yash-patel-jiri-matas-daniel-barath-and-sasha-alexander-smile",
+            },},{id: "news-two-first-authored-papers-has-been-accepted-to-iccv-2023-generalized-differentiable-ransac-and-adaptive-reordering-sampler-with-neurally-guided-magsac-big-thanks-to-our-co-authors-amp-amp-supervisors-yash-patel-jiri-matas-daniel-barath-and-sasha-shekhovtsov-smile",
           title: 'Two first-authored papers has been accepted to ICCV 2023! “Generalized differentiable RANSAC” and...',
           description: "",
           section: "News",},{id: "news-i-am-working-as-an-academic-guest-researcher-at-cvg-eth-for-two-months-thanks-to-dr-daniel-barath-and-prof-marc-pollefeys",
