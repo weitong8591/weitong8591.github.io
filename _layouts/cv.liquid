@@ -324,6 +324,18 @@ layout: default
           </div>
         {% endif %}
 
+        <!-- Review Experience -->
+        {% if site.data.resume.review.size > 0 %}
+          <a class="anchor" id="review_experience"></a>
+          <div class="card mt-3 p-3">
+            <h3 class="card-title font-weight-medium">review_experience</h3>
+            <div>
+              {% assign entries = site.data.resume.review %}
+              {% include cv/review.liquid %}
+            </div>
+          </div>
+        {% endif %}
+
         <!-- Languages -->
         {% if site.data.resume.languages.size > 0 %}
           <a class="anchor" id="languages"></a>
