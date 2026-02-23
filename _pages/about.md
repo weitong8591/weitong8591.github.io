@@ -7,8 +7,9 @@ subtitle: PhD candidate at <a href="https://vrg.fel.cvut.cz/">VRG</a>, Czech Tec
 profile:
   align: right
   image: my_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   image_width: 30%
+  class: smaller-profile
   # more_info: >
   #   <p></p>
   #   <p>Prague, Czech Republic</p>
