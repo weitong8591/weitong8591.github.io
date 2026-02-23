@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am working as an academic guest researcher at CVG, ETH for two months, thanks to Dr. Daniel Barath and Prof. Marc Pollefeys. 
+I am working as an academic guest researcher at CVG, ETH Zurich for two months, thanks to Dr. Daniel Barath and Prof. Marc Pollefeys. 

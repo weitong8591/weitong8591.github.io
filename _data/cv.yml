@@ -25,7 +25,6 @@ cv:
     Education:
       - institution: Czech Technical University in Prague
         location: Prague, Czech Republic
-        url: https://www.uzh.ch/
         area: Computer Science
         studyType: P.h.D.
         start_date: 2022
@@ -42,16 +41,40 @@ cv:
         #   - Description 1.
         #   - Description 2.
 
-    # Experience:
-    #   - company: Institute for Advanced Study, Princeton University
-    #     position: Professor of Theoretical Physics
-    #     location: Princeton University, NJ
-    #     start_date: 1933
-    #     end_date: 1955
-    #     summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-    #     highlights:
-    #       - Relativity
-    #       - Description 2.
+      - institution: Liaoning Technical Univeristy
+        location: Liaoning, China
+        area: Communication Engineering
+        studyType: BSc.
+        start_date: 2015
+        end_date: 2019
+        highlights: 
+            - Best Bachelor thesis award
+        #   - Description 1.
+        #   - Description 2.
+
+    Experience:
+      - company: ETH Zurich
+        position: guest researcher
+        location: Zurich, Switzerland
+        start_date: 2024-10
+        end_date: 2024-12
+        summary: Minimal spanning tree-based image pair retrieval for Structure from Motion.
+        highlights:
+          - Supervisor of a semester project at Mixed Reality course called "Where am I?" Interactive indoor localization and navigation on Magic Leap 2 hardware.
+     
+      - company:  Computer Vision Winter Workshop (CVWW) 2024
+        position: invited talk
+        location: Slovenia
+        start_date: 2024-02
+        end_date: 2024-02
+        summary: Learning-based RANSAC scoring functions
+
+      - company:  International Computer Vision Summer School (ICVSS) 
+        position: Attendee
+        location: Sicily, Italy
+        start_date: 2023-07
+        end_date: 2023-07
+        # summary: Learning-based RANSAC scoring functions
 
     #   - company: California Institute of Technology
     #     position: Visiting Professor
@@ -91,21 +114,24 @@ cv:
     #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
     #       - "Men of the year 2014 by Time magazine"
 
-    # Awards:
-    #   - title: Nobel Prize in Physics
-    #     authors:
-    #       - "Royal Swedish Academy of Sciences"
-    #     date: 1921-11-01
-    #     awarder: Royal Swedish Academy of Sciences
-    #     url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-    #     summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+    Awards:
+      - title: Stipendium Hungaricum Master's Scholarship
+        date: 2020-09
+        awarder: Hungarian Government
+        url: https://stipendiumhungaricum.hu/about/
 
-    #   - title: Max Planck Medal
-    #     authors:
-    #       - "German Physical Society"
-    #     date: 2029
-    #     awarder: German Physical Society
-    #     summary: Awarded for outstanding scientific achievement
+      - title: First Prize of National English Competition for College Students
+        authors:
+          - "German Physical Society"
+        date: 2020
+        awarder: China English Foreign Language Teachers Association
+
+      - title: Best Bachelor Thesis Award 
+        authors:
+          - "German Physical Society"
+        date: 2019
+        awarder: Liaoning Technical Univeristy
+        summary: "3D Object Detection Network for Point Cloud Classification"
 
     # Publications:
     #   - title: Zur Elektrodynamik bewegter Körper
@@ -132,23 +158,26 @@ cv:
     #     url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
     #     summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
-    # Skills:
-    #   - name: Physics
-    #     level: Master
-    #     icon: fa-solid fa-hashtag
-    #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Skills:
+      - name: Topics
+        # level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "Computer Vision, 3D Reconstruction, Structure from Motion, Pose Graph Construction, Robust Estimation, Image Processing, Image Retrieval, Feature Matching, Deep Learning, Representation Learning"
+      
+      - name: Programming
+        # level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "Python, C/C++, PyTorch, Keras, Korina, OpenCV"
 
-    # Languages:
-    #   - name: German
-    #     summary: "Native speaker"
+    Languages:
+      - name: English
+        summary: "Fluent"
+      - name: Chienese
+        summary: "Native speaker"
 
-    #   - name: English
-    #     summary: "Fluent"
 
-    # Interests:
-    #   - name: Physics
-    #     icon: fa-solid fa-tag
-    #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    Review_experience:
+      - name: CVPR, ECCV, NeurIPS, ICLR
 
     # Certificates:
     #   - name: Machine Learning
