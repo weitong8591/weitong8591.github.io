@@ -117,18 +117,19 @@ cv:
     Awards:
       - title: Stipendium Hungaricum Master's Scholarship
         date: 2020-09
+        authors:
         awarder: Hungarian Government
         url: https://stipendiumhungaricum.hu/about/
 
       - title: First Prize of National English Competition for College Students
         authors:
-          - "German Physical Society"
+          # - "German Physical Society"
         date: 2020
         awarder: China English Foreign Language Teachers Association
 
       - title: Best Bachelor Thesis Award 
         authors:
-          - "German Physical Society"
+        #   - "German Physical Society"
         date: 2019
         awarder: Liaoning Technical Univeristy
         summary: "3D Object Detection Network for Point Cloud Classification"
