@@ -34,12 +34,12 @@ cv:
       - institution: Eotvos Lorand Univeristy
         location: Budapest, Hungary
         area: Computer Science (AI)
-        studyType: Federal teaching diploma
+        studyType: MSc.
         start_date: 2020
         end_date: 2022
-        highlights:
-          - Description 1.
-          - Description 2.
+        highlights: Excellent graduate (5/5)
+        #   - Description 1.
+        #   - Description 2.
 
     # Experience:
     #   - company: Institute for Advanced Study, Princeton University
