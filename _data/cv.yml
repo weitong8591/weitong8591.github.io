@@ -37,7 +37,8 @@ cv:
         studyType: MSc.
         start_date: 2020
         end_date: 2022
-        highlights: Excellent graduate (5/5)
+        highlights: 
+            - Excellent graduate (5/5)
         #   - Description 1.
         #   - Description 2.
 
