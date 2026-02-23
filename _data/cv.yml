@@ -54,7 +54,7 @@ cv:
 
     Experience:
       - company: ETH Zurich
-        position: guest researcher
+        position: Guest researcher
         location: Zurich, Switzerland
         start_date: 2024-10
         end_date: 2024-12
@@ -63,7 +63,7 @@ cv:
           - Supervisor of a semester project at Mixed Reality course called "Where am I?" Interactive indoor localization and navigation on Magic Leap 2 hardware.
      
       - company:  Computer Vision Winter Workshop (CVWW) 2024
-        position: invited talk
+        position: Invited talk
         location: Slovenia
         start_date: 2024-02
         end_date: 2024-02

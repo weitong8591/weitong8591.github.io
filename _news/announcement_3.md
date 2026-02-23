@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
  
-Our paper called "Breaking the frame: Visual place recognition by overlap prediction" has been accepted to WACV 2025. See you in Tucson! :sparkler: :cactus:
+Our paper called "Breaking the Frame: Visual Place Recognition by Overlap Prediction" has been accepted to WACV 2025. Chat soon in Tucson! :sparkler: :cactus:

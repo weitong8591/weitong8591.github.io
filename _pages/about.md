@@ -29,6 +29,6 @@ latest_posts:
 ---
 
 I am a PhD candidate working at CTU in Prague, supervised by <a href="https://scholar.google.com/citations?user=U9-D8DYAAAAJ&hl=en">Dr. Dániel Baráth</a> and <a href="https://scholar.google.com/citations?user=EJCNY6QAAAAJ&hl=en">Prof. Jiří Matas</a>. 
-Before that, I completed my Master’s in Computer Science (AI specialization) at ELTE in Budapest, supervised by Dániel Baráth and Levente Hajder. \\
+Before that, I completed my Master’s in Computer Science (AI specialization) at ELTE in Budapest, supervised by Dániel Baráth and <a href=https://scholar.google.com/citations?user=SGEJgVcAAAAJ&hl=en">Levente Hajder</a>. \\
 My research mainly focuses on subproblems of SfM, including differentiating RANSAC for pose estimation and rigid transformation, as well as improving image retrieval targeted at a good and robust initial pose graph and reconstruction. 
 I am open to internship this year and postdoc/researcher positions starting next year. 
