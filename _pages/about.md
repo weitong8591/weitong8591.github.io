@@ -28,6 +28,6 @@ latest_posts:
 ---
 
 I am a PhD candidate working at Czech Technical University in Prague.
-I completed my Master’s in Computer Science (AI specialization) at ELTE in Budapest, supervised by Daniel Barath and Levente Hajder. I started my PhD at CTU in Prague in July 2022, working with Daniel Barath and Prof. Ji{\v{r}}{\'\i}. \\
+I completed my Master’s in Computer Science (AI specialization) at ELTE in Budapest, supervised by Daniel Barath and Levente Hajder. I started my PhD at CTU in Prague in July 2022, working with Daniel Barath and Prof. Jiří Matas. \\
 My research mainly focuses on subproblems of SfM, including differentiating RANSAC for pose estimation and rigid transformation, as well as improving image retrieval targeted at a good and robust initial pose graph and reconstruction. 
 I am open to internship this year and postdoc/researcher positions starting next year. 
