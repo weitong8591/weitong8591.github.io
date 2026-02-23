@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 Two first-authored papers has been accepted to ICCV 2023! "Generalized differentiable RANSAC" and "Adaptive reordering sampler with neurally guided MAGSAC"
-Big thanks to our co-authors & supervisors: Yash Patel, Jiri Matas, Daniel Barath, and Sasha Alexander. :smile:
+Big thanks to our co-authors & supervisors: Yash Patel, Jiri Matas, Daniel Barath, and Sasha Shekhovtsov. :smile:
