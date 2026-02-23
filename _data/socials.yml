@@ -7,7 +7,7 @@ email: weitong@fel.cvut.cz # your email address
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: 6BHkzaIAAAA # your Google Scholar ID
 linkedin_username: tong-wei-32b4481b7
-# wechat_username: assets/img/wechat.jpg  # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+wechat_username: assets/img/wechat.jpg  # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 whatsapp_number: +420773703866
 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin

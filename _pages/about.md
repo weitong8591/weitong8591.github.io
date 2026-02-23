@@ -8,7 +8,7 @@ profile:
   align: right
   image: my_pic.jpg
   image_circular: false # crops the image to make it circular
-  image_width: 220
+  image_width: 110
   # more_info: >
   #   <p></p>
   #   <p>Prague, Czech Republic</p>
