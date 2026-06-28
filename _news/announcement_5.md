@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our CVPR 2026 paper "Global-Aware Edge Prioritization for Pose Graph Initialization" has been selected as an Award Candidate! We also joined [CVNews](https://rsipvision.com/CVPR2026-Sunday/) and were featured during CVPR 2026.
+Our CVPR 2026 paper "Global-Aware Edge Prioritization for Pose Graph Initialization" has been selected as an Award Candidate! We are also featured by [CVNews](https://rsipvision.com/CVPR2026-Sunday/).
