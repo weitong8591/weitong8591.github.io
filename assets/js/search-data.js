@@ -80,7 +80,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-titled-global-aware-edge-prioritization-for-pose-graph-initialization-has-been-accepted-to-cvpr-2026-big-thanks-to-my-amazing-co-authors-amp-amp-supervisors-giorgos-tolias-jiri-matas-daniel-barath-smile-tada-see-you-in-denver",
           title: 'Our paper titled “Global-Aware Edge Prioritization for Pose Graph Initialization” has been accepted...',
           description: "",
-          section: "News",},{id: "news-our-cvpr-2026-paper-global-aware-edge-prioritization-for-pose-graph-initialization-has-been-selected-as-an-award-candidate-we-also-joined-cvnews-and-were-featured-during-cvpr-2026",
+          section: "News",},{id: "news-our-cvpr-2026-paper-global-aware-edge-prioritization-for-pose-graph-initialization-has-been-selected-as-an-award-candidate-we-are-also-featured-by-cvnews",
           title: 'Our CVPR 2026 paper “Global-Aware Edge Prioritization for Pose Graph Initialization” has been...',
           description: "",
           section: "News",},{id: "projects-project-1",
