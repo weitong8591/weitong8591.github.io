@@ -64,11 +64,11 @@ nav_order: 4
 
 Denver, Colorado.
 
-Our paper "Global-Aware Edge Prioritization for Pose Graph Initialization" was selected as a CVPR 2026 Award Candidate, and we were featured by [CVNews](https://rsipvision.com/CVPR2026-Sunday/).
+Our paper "Global-Aware Edge Prioritization for Pose Graph Initialization" was selected as a CVPR 2026 Award Candidate (top 0.4% of submissions), and we were featured by [CVNews](https://rsipvision.com/CVPR2026-Sunday/).
 
 <div class="gallery-badges">
   <span class="gallery-badge">Oral Presentation</span>
-  <span class="gallery-badge">Award Candidate</span>
+  <span class="gallery-badge">Award Candidate (top 0.4% of submissions)</span>
 </div>
 
 {% if cvpr2026_images.size > 0 %}
