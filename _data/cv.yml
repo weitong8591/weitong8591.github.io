@@ -1,10 +1,10 @@
 cv:
   name: Tong Wei
-  label: PhD candidate
+  label: PhD candidate in Computer Vision
   email: weitong@fel.cvut.cz
   location: Prague, Czech Republic
   image: ""
-  # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: "Computer vision PhD candidate working on learned matchability prediction for robust 3D reconstruction: selecting reliable image pairs in complex or noisy image collections for pose graph construction, SfM and feed-forward reconstruction, with related work on visual overlap prediction, global-aware edge scoring, feature matching and differentiable RANSAC."
 
   social_networks:
     - network: X
@@ -14,203 +14,147 @@ cv:
     - network: LinkedIn
       username: tong-wei-32b4481b7
 
-  # address:
-  #   street: 2712 Broadway St
-  #   city: San Francisco
-  #   region: California
-  #   postalCode: CA 94115
-  #   countryCode: US
-
   sections:
     Education:
       - institution: Czech Technical University in Prague
         location: Prague, Czech Republic
         area: Computer Science
-        studyType: P.h.D.
-        start_date: 2022
-        end_date: 2026
+        studyType: PhD candidate
+        start_date: 2022-09
+        end_date: present
+        highlights:
+          - "Thesis: Learned Robust Matchability Prediction in Image Collections."
+          - "Supervisors: Jiří Matas and Daniel Barath."
 
-      - institution: Eotvos Lorand Univeristy
+      - institution: Eötvös Loránd University
         location: Budapest, Hungary
-        area: Computer Science (AI)
-        studyType: MSc.
-        start_date: 2020
-        end_date: 2022
-        highlights: 
-            - Excellent graduate (5/5)
-        #   - Description 1.
-        #   - Description 2.
+        area: Computer Science, AI specialization
+        studyType: MSc
+        start_date: 2020-09
+        end_date: 2022-06
+        highlights:
+          - "Grade: 4.36/5."
 
-      - institution: Liaoning Technical Univeristy
+      - institution: Liaoning Technical University
         location: Liaoning, China
         area: Communication Engineering
-        studyType: BSc.
-        start_date: 2015
-        end_date: 2019
-        highlights: 
-            - Best Bachelor thesis award
-        #   - Description 1.
-        #   - Description 2.
+        studyType: BSc
+        start_date: 2015-08
+        end_date: 2019-06
+        highlights:
+          - "Best Bachelor Thesis Award."
+
+    Publications:
+      - title: Global-Aware Edge Prioritization for Pose Graph Initialization
+        publisher: CVPR 2026
+        releaseDate: 2026
+        summary: "T. Wei, G. Tolias, J. Matas, D. Barath. **Oral presentation, Best Paper Award candidate** (top 0.4% of submissions)."
+
+      - title: "Breaking the Frame: Visual Place Recognition by Overlap Prediction"
+        publisher: WACV 2025
+        releaseDate: 2025
+        summary: "T. Wei, P. Lindenberger, J. Matas, D. Barath."
+
+      - title: Generalized Differentiable RANSAC
+        publisher: ICCV 2023
+        releaseDate: 2023
+        summary: "T. Wei, Y. Patel, A. Shekhovtsov, J. Matas, D. Barath."
+
+      - title: Adaptive Reordering Sampler with Neurally Guided MAGSAC
+        publisher: ICCV 2023
+        releaseDate: 2023
+        summary: "T. Wei, J. Matas, D. Barath."
+
+      - title: Wavelet Multi-level Attention Capsule Network for Texture Classification
+        publisher: IEEE Signal Processing Letters, 28:1215–1219
+        releaseDate: 2021
+        summary: "Z. Tao, T. Wei, J. Li."
+
+      - title: Underwater Image Sharpening Based on Structure Restoration and Texture Enhancement
+        publisher: Applied Optics, 60(15):4443–4454
+        releaseDate: 2021
+        summary: "S. Lin, K. Chi, T. Wei, Z. Tao."
 
     Experience:
-      - company: ETH Zurich
-        position: Guest researcher
+      - company: Visual Recognition Group, CTU in Prague
+        position: Doctoral researcher
+        location: Prague, Czech Republic
+        start_date: 2022-07
+        end_date: present
+        summary: Learning-based methods for matchability prediction, reliable image-pair selection, pose graph construction and robust estimation for 3D reconstruction.
+
+      - company: SMART study, CTU in Prague
+        position: Researcher
+        location: Prague, Czech Republic
+        start_date: 2026-03
+        end_date: present
+        summary: Machine-learning methods for oocyte quality and fertilization success prediction from polarized-light microscopy images.
+
+      - company: CTU in Prague
+        position: Researcher, sparse-to-fine billboard image verification
+        location: Prague, Czech Republic
+        start_date: 2025-01
+        end_date: 2025-12
+        summary: Sparse matching, homography estimation and dense patch verification for robust image verification.
+
+      - company: Computer Vision and Geometry Group, ETH Zurich
+        position: Academic guest
         location: Zurich, Switzerland
         start_date: 2024-10
         end_date: 2024-12
-        summary: Minimal spanning tree-based image pair retrieval for Structure from Motion.
+        summary: Minimum-spanning-tree-based image pair retrieval and pose graph construction for robust and efficient SfM.
         highlights:
-          - Supervisor of a semester project at Mixed Reality course called "Where am I?" Interactive indoor localization and navigation on Magic Leap 2 hardware.
-     
-      - company:  Computer Vision Winter Workshop (CVWW) 2024
-        position: Invited talk
-        location: Slovenia
-        start_date: 2024-02
-        end_date: 2024-02
-        summary: Learning-based RANSAC scoring functions
-
-      - company:  International Computer Vision Summer School (ICVSS) 
-        position: Attendee
-        location: Sicily, Italy
-        start_date: 2023-07
-        end_date: 2023-07
-        # summary: Learning-based RANSAC scoring functions
-
-    #   - company: California Institute of Technology
-    #     position: Visiting Professor
-    #     location: Pasadena, California, US
-    #     start_date: 1933
-    #     end_date: 1933
-    #     highlights:
-    #       - Description 1.
-    #       - Description 2.
-
-    #   - company: Kaiser Wilhelm Institute for Physics
-    #     position: Director
-    #     location: Berlin, Germany
-    #     start_date: 1917
-    #     end_date: 1933
-
-    #   - company: Karl-Ferdinand University
-    #     position: Professor of Theoretical Physics
-    #     location: Prague, Czechoslovakia
-    #     start_date: 1911
-    #     end_date: 1917
-
-    #   - company: University of Zurich
-    #     position: Associate Professor of Theoretical Physics
-    #     location: Zurich, Switzerland
-    #     start_date: 1909
-    #     end_date: 1911
-
-    # Volunteer:
-    #   - company: People's Climate March
-    #     position: Lead Organizer
-    #     location: Zurich, Switzerland
-    #     start_date: 2014-04-01
-    #     end_date: 2015-07-01
-    #     summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-    #     highlights:
-    #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-    #       - "Men of the year 2014 by Time magazine"
+          - Supervised a semester project in the Mixed Reality course, "Where am I?" Interactive indoor localization and navigation on Magic Leap 2 hardware.
 
     Awards:
+      - title: CVPR 2026 Best Paper Award candidate
+        date: 2026
+        awarder: CVPR
+        summary: "Global-Aware Edge Prioritization for Pose Graph Initialization."
+
       - title: Stipendium Hungaricum Master's Scholarship
-        date: 2020-09
-        authors:
+        date: 2020
         awarder: Hungarian Government
         url: https://stipendiumhungaricum.hu/about/
 
-      - title: First Prize of National English Competition for College Students
-        authors:
-          # - "German Physical Society"
+      - title: Excellent Master's Student
+        date: 2021
+        awarder: Liaoning Technical University
+
+      - title: First Prize, Band A, National English Competition for College Students
         date: 2020
         awarder: China English Foreign Language Teachers Association
 
-      - title: Best Bachelor Thesis Award 
-        authors:
-        #   - "German Physical Society"
+      - title: Best Bachelor Thesis Award
         date: 2019
-        awarder: Liaoning Technical Univeristy
-        summary: "3D Object Detection Network for Point Cloud Classification"
+        awarder: Liaoning Technical University
+        summary: "3D Object Detection Network for Point Cloud Classification."
 
-    # Publications:
-    #   - title: Zur Elektrodynamik bewegter Körper
-    #     authors:
-    #       - Albert Einstein
-    #     publisher: Annalen der Physik
-    #     releaseDate: 1905-06-30
-    #     url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-    #     summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+    Talks:
+      - bullet: "Invited talk, Computer Vision Winter Workshop (CVWW), Slovenia, 2024: learning-based RANSAC scoring functions."
+      - bullet: "Invited talk, Computer Vision Winter Workshop (CVWW), Austria, 2023: differentiable RANSAC components and applications."
 
-    #   - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-    #     authors:
-    #       - Albert Einstein
-    #     publisher: Annalen der Physik
-    #     releaseDate: 1905-03-18
-    #     url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-    #     summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+    Teaching and Service:
+      - bullet: "Teaching assistant, Medical Image Processing (BAM33ZMO), CTU in Prague, 2026–2027."
+      - bullet: "Master thesis reviewer, CTU in Prague, 2025."
+      - bullet: "Semester project supervisor, Mixed Reality course, ETH Zurich, 2024."
+      - bullet: "Reviewer for CVPR, ECCV, NeurIPS, ICLR, AAAI and 3DV."
 
-    #   - title: Die Grundlage der allgemeinen Relativitätstheorie
-    #     authors:
-    #       - Albert Einstein
-    #     publisher: Annalen der Physik
-    #     releaseDate: 1916-03-20
-    #     url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-    #     summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+    Summer Schools:
+      - bullet: "International Computer Vision Summer School (ICVSS), Sicily, Italy, 2023."
+      - bullet: "Vision and Sports Summer School, Prague, Czech Republic, 2022."
 
     Skills:
       - name: Topics
-        # level: Master
         icon: fa-solid fa-hashtag
-        keywords: "Computer Vision, 3D Reconstruction, Structure from Motion, Pose Graph Construction, Robust Estimation, Image Processing, Image Retrieval, Feature Matching, Deep Learning, Representation Learning"
-      
+        keywords: ["Computer Vision", "3D Reconstruction", "Structure from Motion", "Pose Graph Construction", "Robust Estimation", "Image Retrieval", "Feature Matching", "Deep Learning"]
+
       - name: Programming
-        # level: Master
         icon: fa-solid fa-hashtag
-        keywords: "Python, C/C++, PyTorch, Keras, Korina, OpenCV"
+        keywords: ["Python", "C/C++", "PyTorch", "Keras", "Kornia", "OpenCV"]
 
     Languages:
-      - name: English
-        summary: "Fluent"
       - name: Chinese
-        summary: "Native speaker"
-
-
-    Review_experience:
-      - name: Review 
-        keywords: "CVPR, ECCV, NeurIPS, ICLR"
-
-    # Certificates:
-    #   - name: Machine Learning
-    #     date: 2018-01-01
-    #     issuer: Stanford University
-    #     icon: fa-solid fa-location-dot
-
-    #   - name: Quantum Computing
-    #     date: 2018-01-01
-    #     issuer: Stanford University
-    #     icon: fa-solid fa-tag
-
-    #   - name: Quantum Information
-    #     date: 2018-01-01
-    #     issuer: Stanford University
-    #     icon: fa-solid fa-envelope
-
-    # Projects:
-    #   - name: Quantum Computing
-    #     summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-    #     highlights:
-    #       - Quantum Teleportation
-    #       - Quantum Cryptography
-    #     start_date: 2018-01-01
-    #     end_date: 2018-01-01
-
-    # References:
-    #   - name: Professor John Doe
-    #     icon: fa-solid fa-laptop
-    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-    #   - name: Professor Jane Smith
-    #     icon: fa-solid fa-thumbtack
-    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        summary: Native
+      - name: English
+        summary: Fluent
