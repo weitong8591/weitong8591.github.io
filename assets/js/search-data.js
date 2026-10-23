@@ -103,7 +103,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/CV_wei.pdf", "_blank");
+          window.open("/assets/pdf/CV_Tong_Wei.pdf", "_blank");
         },
       },{
         id: 'social-email',
